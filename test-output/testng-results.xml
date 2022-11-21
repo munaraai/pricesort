@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T20:26:18 AST" name="Default suite" finished-at="2022-11-21T20:26:36 AST" duration-ms="17731">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T20:26:18 AST" name="Default test" finished-at="2022-11-21T20:26:36 AST" duration-ms="17731">
+      <class name="price.Hightolow">
+        <test-method is-config="true" signature="login()[pri:0, instance:price.Hightolow@661972b0]" started-at="2022-11-21T20:26:18 AST" name="login" finished-at="2022-11-21T20:26:31 AST" duration-ms="13223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="sorting()[pri:0, instance:price.Hightolow@661972b0]" started-at="2022-11-21T20:26:31 AST" name="sorting" finished-at="2022-11-21T20:26:36 AST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorting -->
+      </class> <!-- price.Hightolow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
